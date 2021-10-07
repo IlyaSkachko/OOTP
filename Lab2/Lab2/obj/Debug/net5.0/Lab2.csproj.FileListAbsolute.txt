@@ -1,0 +1,16 @@
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\ref\Lab2.dll
+D:\OOTP\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+D:\OOTP\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
