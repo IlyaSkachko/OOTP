@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
 
 namespace Lab1
@@ -28,9 +27,9 @@ namespace Lab1
 
 
             // Неявно типизированная переменная
-            var l = new List<int>();
+            var l = 15;
 
-            List<int> k = new List<int>();
+
 
             // Nullable 
             int? z = 7;
@@ -124,7 +123,7 @@ namespace Lab1
                     {
                         int a = 2147483647, b = 2;
                         int result = a + b;
-                        Console.WriteLine(result);
+                        Console.WriteLine("Checked: "+result);
                     }
                 }
                 catch(OverflowException)
@@ -139,11 +138,14 @@ namespace Lab1
                 {
                     int a = 2147483647, b = 2;
                     int result = a * b;
-                    Console.WriteLine(result);
+                    Console.WriteLine("Unchecked: "+result);
                 }
             }
 
             ex1(); ex2();
+            Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
         }
 
 
@@ -245,7 +247,7 @@ namespace Lab1
         static void null_str()
         {
             string empty_str = "rf";
-            string? str_null = null;
+            string str_null = null;
             Console.WriteLine("Строка null и пустая строка: \n");
             Console.WriteLine(String.IsNullOrEmpty(empty_str));
             Console.WriteLine(String.IsNullOrEmpty( str_null)+"\n");
@@ -307,9 +309,24 @@ namespace Lab1
             // Ступенчатый массив
 
             int[][] step_array = new int[3][];
-            step_array[0] = new int[2] { 5, 1 };
-            step_array[1] = new int[3] { 6, 2, 4 };
-            step_array[2] = new int[4] { 3, 7, 9, 8 };
+            step_array[0] = new int[2];
+            step_array[1] = new int[3];
+            step_array[2] = new int[4];
+            Console.WriteLine("Введите значения массива: ");
+            for (int i = 0;i<2;i++)
+            {
+                step_array[0][i] = Convert.ToInt32(Console.ReadLine());
+            }
+            for (int i = 0; i < 3; i++)
+            {
+                step_array[1][i] = Convert.ToInt32(Console.ReadLine());
+            }
+            for (int i = 0; i < 4; i++)
+            {
+                step_array[2][i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            Console.WriteLine();
             for (int i = 0; i < step_array.Length; i++)
             {
                 for (int j = 0; j < step_array[i].GetLength(0); j++)
@@ -333,6 +350,7 @@ namespace Lab1
 
             // Распоковка кортежа в перемменные 
             var (age, name, sym, surname, min) = tuple;
+            Console.WriteLine("Распоковка кортежа: "+tuple);
 
         }
     }

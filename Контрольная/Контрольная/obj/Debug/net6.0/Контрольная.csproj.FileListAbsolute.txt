@@ -1,0 +1,15 @@
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.csproj.AssemblyReference.cache
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.AssemblyInfoInputs.cache
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.AssemblyInfo.cs
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.csproj.CoreCompileInputs.cache
+D:\OOTP\Контрольная\Контрольная\bin\Debug\net6.0\Контрольная.exe
+D:\OOTP\Контрольная\Контрольная\bin\Debug\net6.0\Контрольная.deps.json
+D:\OOTP\Контрольная\Контрольная\bin\Debug\net6.0\Контрольная.runtimeconfig.json
+D:\OOTP\Контрольная\Контрольная\bin\Debug\net6.0\Контрольная.dll
+D:\OOTP\Контрольная\Контрольная\bin\Debug\net6.0\ref\Контрольная.dll
+D:\OOTP\Контрольная\Контрольная\bin\Debug\net6.0\Контрольная.pdb
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.dll
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\ref\Контрольная.dll
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.pdb
+D:\OOTP\Контрольная\Контрольная\obj\Debug\net6.0\Контрольная.genruntimeconfig.cache

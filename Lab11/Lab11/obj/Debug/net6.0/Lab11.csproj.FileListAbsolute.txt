@@ -1,0 +1,15 @@
+D:\OOTP\Lab11\Lab11\bin\Debug\net6.0\Lab11.exe
+D:\OOTP\Lab11\Lab11\bin\Debug\net6.0\Lab11.deps.json
+D:\OOTP\Lab11\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+D:\OOTP\Lab11\Lab11\bin\Debug\net6.0\Lab11.dll
+D:\OOTP\Lab11\Lab11\bin\Debug\net6.0\ref\Lab11.dll
+D:\OOTP\Lab11\Lab11\bin\Debug\net6.0\Lab11.pdb
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.AssemblyReference.cache
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.dll
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\ref\Lab11.dll
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.pdb
+D:\OOTP\Lab11\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache

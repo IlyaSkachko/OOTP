@@ -5,7 +5,6 @@ D:\OOTP\Lab1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
 D:\OOTP\Lab1\Lab1\bin\Debug\net5.0\Lab1.dll
 D:\OOTP\Lab1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
 D:\OOTP\Lab1\Lab1\bin\Debug\net5.0\Lab1.pdb
-D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.csprojAssemblyReference.cache
 D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
 D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
 D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
@@ -14,3 +13,4 @@ D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.dll
 D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
 D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.pdb
 D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+D:\OOTP\Lab1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache

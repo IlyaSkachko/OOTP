@@ -1,0 +1,15 @@
+D:\OOTP\Lab13\Lab13\bin\Debug\net6.0\Lab13.exe
+D:\OOTP\Lab13\Lab13\bin\Debug\net6.0\Lab13.deps.json
+D:\OOTP\Lab13\Lab13\bin\Debug\net6.0\Lab13.runtimeconfig.json
+D:\OOTP\Lab13\Lab13\bin\Debug\net6.0\Lab13.dll
+D:\OOTP\Lab13\Lab13\bin\Debug\net6.0\ref\Lab13.dll
+D:\OOTP\Lab13\Lab13\bin\Debug\net6.0\Lab13.pdb
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.AssemblyReference.cache
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfoInputs.cache
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfo.cs
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.CoreCompileInputs.cache
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.dll
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\ref\Lab13.dll
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.pdb
+D:\OOTP\Lab13\Lab13\obj\Debug\net6.0\Lab13.genruntimeconfig.cache

@@ -139,8 +139,5 @@ namespace Lab3
         {
             return inv(m1);
         }
-
-
-
     }
 }
